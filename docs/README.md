@@ -28,9 +28,9 @@
 
 ## 🎓 共建计划
 
-好久不见！距离全国高考还有 15 天，在此祝小朋友们金榜题名！
+好久不见！高考已经结束，在此祝小朋友们金榜题名！
 
-距离本项目启动已有近一年时间，在下一个开学季即将来临之际，我们将对 Ac-Wiki 进行新一轮的更新扩充。
+距离本项目启动已有近一年时间，在暑假即将结束、新学期即将到来之际，我们将对 Ac-Wiki 进行新一轮的更新扩充，为即将踏入大学校门的同学们提供更全面的指导。
 
 后期我们会在频道中征集对特定板块的建议并汇总，项目主页稍后会同步更新，我们呼吁更多志愿者参与文档共建，共同打通高等教育的"最后一公里"💗
 
@@ -77,11 +77,14 @@
 - ✅ [签到考勤](./09-Campus-Life/03-Signin-And-Attendance.md)
 - ✅ [转专业须知](./09-Campus-Life/04-Changing-Majors.md)
 - ✅ [辅修/第二学位须知](./09-Campus-Life/05-Minor.md)
+- 🚧 **国际交流项目指南**（交换生申请、公派留学机会、国际处资源利用）
 - ✅ [如何申请学生邮箱](./09-Campus-Life/06-Student-Email.md)
+- 🚧 **学生邮箱使用技巧**（教育优惠申请、数据集申请、论文投稿等应用场景）
 - ✅ [图书馆](./09-Campus-Life/07-Library.md)
 - ✅ [化解矛盾](./09-Campus-Life/08-Resolving-Conflicts.md)
 - ✅ [人际关系](./09-Campus-Life/09-Relation-Ships.md)
 - ✅ [脱单技巧](./09-Campus-Life/10-Getting-Out-Of-Singleness.md)
+- 🚧 **专业学习指导**（生化环材专业实验室经验、转专业策略、专业发展建议）
 
 ### 🌎 社会生活
 
@@ -206,6 +209,10 @@
 ### 广东工业大学
 
 - [![课程攻略](https://img.shields.io/static/v1?label=&message=课程攻略&color=34a853&style=for-the-badge&logo=github&logoColor=white)](https://github.com/brenner8023/gdut-course)
+
+### 江西理工大学
+
+- [![学习资料库](https://img.shields.io/static/v1?label=&message=学习资料库&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sikouhjw/jxust-Learning-database)
 
 ---
 

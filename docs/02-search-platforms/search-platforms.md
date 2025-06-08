@@ -219,6 +219,32 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 
 - [科研废物导航](https://yanweb.top/) 这里整合了许多在写论文时会用到的大部分工具<br/>
 
+#### 📚 学术论文搜索平台
+
+除了传统的中国知网(CNKI)，还有许多优质的学术资源搜索平台：
+
+**免费开放获取平台：**
+- [谷歌学术](https://scholar.google.com/) - 全球最大的学术搜索引擎，涵盖各个学科领域
+- [Semantic Scholar](https://www.semanticscholar.org/) - AI驱动的学术搜索引擎，提供智能推荐
+- [CORE](https://core.ac.uk/) - 全球最大的开放获取研究论文聚合器
+- [arXiv](https://arxiv.org/) - 理工科预印本服务器，最新研究成果
+- [bioRxiv](https://www.biorxiv.org/) - 生物学预印本服务器
+- [SSRN](https://www.ssrn.com/) - 社会科学研究网络
+
+**国内学术平台：**
+- [中国科技论文在线](http://www.paper.edu.cn/) - 教育部主办的学术交流平台
+- [国家哲学社会科学文献中心](http://www.ncpssd.org/) - 免费提供学术资源
+- [中科院文献情报中心](http://www.las.ac.cn/) - 科技文献资源
+- [万方数据](https://www.wanfangdata.com.cn/) - 综合性学术数据库
+- [维普资讯](http://www.cqvip.com/) - 中文科技期刊数据库
+
+**专业领域数据库：**
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - 生物医学文献数据库
+- [IEEE Xplore](https://ieeexplore.ieee.org/) - 电气工程和计算机科学
+- [ACM Digital Library](https://dl.acm.org/) - 计算机科学文献
+- [SpringerLink](https://link.springer.com/) - 科学、技术、医学期刊
+- [ScienceDirect](https://www.sciencedirect.com/) - 爱思唯尔期刊数据库
+
 ??? tip "如何解决知网、万方高昂的“会员费” "
 
     一般情况下很多图书馆会购买相关的数据库，你可以先打开你们学校图书馆的网址（或者去询问图书馆或信息化中心的教职工）学校是否购买了相关的数据库文献
