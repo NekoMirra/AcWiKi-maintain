@@ -4,8 +4,8 @@ nav:
       - blog/index.md
   - 关于Wiki: about-wiki.md
   - 校园生活:
-      - 开学前准备: 09-Campus-Life/01-FirstLessonOfSchool.md
-      - 课程与分数计算: 09-Campus-Life/02-DifferentCourses.md
+      - 开学前准备: 09-Campus-Life/01-FirstLesson-Of-School.md
+      - 课程与分数计算: 09-Campus-Life/02-Different-Courses.md
       - 国家助学贷款: 09-Campus-Life/national-student-loan-FAQ.md
   - 学生优惠: 01-student-discounts/student-discounts.md
   - 搜索引擎: 02-search-platforms/search-platforms.md
@@ -25,7 +25,7 @@ nav:
   - 就业:
       - 企业文化: 06-recruit-exercitation/recruit-exercitation.md
   - 方法论:
-      - 计算机基础技能: 07-computer-basic/computer-basic.md
+      - 计算机基础技能: 07-computer-basic/SurfingTutorial.md
 
 site_name: Ac-Wiki 大学生的百科全书
 site_url: https://ac-wiki.org # 正式站点链接
