@@ -87,7 +87,7 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 - ✅ [化解矛盾](./campus-life/08-Resolving-Conflicts.md)
 - ✅ [人际关系](./campus-life/09-Relation-Ships.md)
 - ✅ [脱单技巧](./campus-life/10-Getting-Out-Of-Singleness.md)
-- ✅ [国际交流项目指南](./campus-life/11-International-Exchange.md)
+- ✅ [国际交流项目指南](./campus-life/12-International-Exchange.md)
 - ✅ [大学生医保使用指南](./campus-life/11-Medical-Insurance.md)
 - 🚧 **专业学习指导**（生化环材专业实验室经验、转专业策略、专业发展建议）
 
@@ -150,6 +150,7 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 - ✅ [**专业技能**](./04-study/certification.md)
 - ✅ [**考试竞赛**](./04-study/study.md)
 - ✅ [**研招**](./04-study/yanzhao.md)
+- ✅ [**生化/环境/材料专业指南**](./04-study/biochem-env-materials-guide.md)
 
 ## ⏳ 待补充
 
