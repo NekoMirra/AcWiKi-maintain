@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 <div align="center">
   <a href="https://github.com/Ac-Wiki/Ac-Wiki">
     <img src="./assets/logo_clear.png" alt="Ac-Wiki Logo" width="200"/>
@@ -67,24 +72,23 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 
 - ✅ [奖/助学金申请](./08-Dream-Realization-Assistance/Scholar-Ship.md)
 - ✅ [勤工俭学申请](./08-Dream-Realization-Assistance/Work-Study-Program.md)
-- ✅ [国家助学贷款（常见问题）](./09-Campus-Life/national-student-loan-FAQ.md)
+- ✅ [国家助学贷款（常见问题）](./campus-life/national-student-loan-FAQ.md)
 - 🚧 大学生创业扶持
 
 ### 🏫 校园生活
 
-- ✅ [开学第 0 课](./09-Campus-Life/01-FirstLesson-Of-School.md)（宿舍购置物品/所学专业的培养计划/绩点、学分计算方式/大学课表工作方式（常用课表软件））
-- ✅ [选修课/必修课/兴趣（个性化）课/网络课程](./09-Campus-Life/02-Different-Courses.md)
-- ✅ [签到考勤](./09-Campus-Life/03-Signin-And-Attendance.md)
-- ✅ [转专业须知](./09-Campus-Life/04-Changing-Majors.md)
-- ✅ [辅修/第二学位须知](./09-Campus-Life/05-Minor.md)
-- 🚧 **国际交流项目指南**（交换生申请、公派留学机会、国际处资源利用）
-- ✅ [如何申请学生邮箱](./09-Campus-Life/06-Student-Email.md)
-- ✅ [图书馆](./09-Campus-Life/07-Library.md)
-- ✅ [化解矛盾](./09-Campus-Life/08-Resolving-Conflicts.md)
-- ✅ [人际关系](./09-Campus-Life/09-Relation-Ships.md)
-- ✅ [脱单技巧](./09-Campus-Life/10-Getting-Out-Of-Singleness.md)
-- ✅ [国际交流项目指南](./09-Campus-Life/11-International-Exchange.md)
-- ✅ [大学生医保使用指南](./09-Campus-Life/11-Medical-Insurance.md)
+- ✅ [开学第 0 课](./campus-life/01-FirstLesson-Of-School.md)（宿舍购置物品/所学专业的培养计划/绩点、学分计算方式/大学课表工作方式（常用课表软件））
+- ✅ [选修课/必修课/兴趣（个性化）课/网络课程](./campus-life/02-Different-Courses.md)
+- ✅ [签到考勤](./campus-life/03-Signin-And-Attendance.md)
+- ✅ [转专业须知](./campus-life/04-Changing-Majors.md)
+- ✅ [辅修/第二学位须知](./campus-life/05-Minor.md)
+- ✅ [如何申请学生邮箱](./campus-life/06-Student-Email.md)
+- ✅ [图书馆](./campus-life/07-Library.md)
+- ✅ [化解矛盾](./campus-life/08-Resolving-Conflicts.md)
+- ✅ [人际关系](./campus-life/09-Relation-Ships.md)
+- ✅ [脱单技巧](./campus-life/10-Getting-Out-Of-Singleness.md)
+- ✅ [国际交流项目指南](./campus-life/11-International-Exchange.md)
+- ✅ [大学生医保使用指南](./campus-life/11-Medical-Insurance.md)
 - 🚧 **专业学习指导**（生化环材专业实验室经验、转专业策略、专业发展建议）
 
 ### 🌎 社会生活
