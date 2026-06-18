@@ -151,6 +151,16 @@
     color: var(--md-footer-fg-color--light);
 }
 
+/* --- Hide left sidebar on desktop, use top nav instead --- */
+@media screen and (min-width: 76.1875em) {
+    .md-sidebar--primary {
+        display: none !important;
+    }
+    .md-main__inner {
+        margin-left: 0;
+    }
+}
+
 /* --- Responsive Adjustments --- */
 @media screen and (max-width: 76.1875em) {
     .hero h1 {
