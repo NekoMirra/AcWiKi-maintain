@@ -2,19 +2,19 @@
 
 <div class="grid cards" markdown>
 
-- :material-link:{ .lg .middle } [**Missing · 计算机入门教程**](https://www.criwits.top/missing/)
+- :material-link:{ .lg .middle } [**你缺失的那门计算机课**](https://www.criwits.top/missing/)
 
     ---
 
-    面向初学者的免费中文计算机入门教程
+    计算机技术学习札记
 
-- :material-link:{ .lg .middle } [**西邮 Wiki**](https://wiki.cooo.site)
+- :material-link:{ .lg .middle } [**西邮 Wiki - XUPT Wiki**](https://wiki.cooo.site)
 
     ---
 
     西安邮电大学非官方校园生活指南
 
-- :material-link:{ .lg .middle } [**高校生活质量查询**](https://colleges.chat/)
+- :material-link:{ .lg .middle } [**大学生活质量指北**](https://colleges.chat/)
 
     ---
 
