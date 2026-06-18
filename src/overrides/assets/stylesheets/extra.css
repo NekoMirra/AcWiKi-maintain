@@ -158,6 +158,15 @@
     line-height: 2;
 }
 
+/* --- Right TOC Enlargement --- */
+.md-sidebar--secondary .md-nav__link {
+    font-size: 0.95rem;
+    line-height: 1.8;
+}
+.md-sidebar--secondary .md-nav__item {
+    margin-bottom: 0.1rem;
+}
+
 /* --- Footer Enhancements --- */
 .md-footer {
     text-align: center;

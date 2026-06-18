@@ -90,43 +90,43 @@
 
 ## 📖 网站目录
 
-### 🎓 入学前
+### 入学前
 
 *开学准备、选课转专业、校园初始设置，帮你迈出大学第一步。*
 
 [开学第0课](campus-life/first-lesson-of-school.md) · [课程与学分](campus-life/different-courses.md) · [签到考勤](campus-life/class-attendance.md) · [转专业须知](campus-life/major-transfer-guide.md) · [辅修/第二学位](campus-life/minor-or-dual-degree.md) · [学生邮箱](campus-life/student-email.md)
 
-### 📚 学术资源
+### 学术资源
 
 *论文写作规范、学术检索方法、毕业论文指导，从入门到精通的学术之路。*
 
 [学术研究与写作](academic-resources/academic-research-and-academic-writing.md) · [关键概念](academic-resources/some-key-concepts.md) · [毕业论文](academic-resources/thesis-bachelor-science.md) · [资源获取](academic-resources/how-to-get-resources.md) · [开源项目](academic-resources/useful-open-source-projects.md) · [数学](academic-resources/math/learning-resources.md)
 
-### 🔧 通识技能
+### 通识技能
 
 *搜索技巧、效率工具、计算机基础操作，提升你的数字素养。*
 
 [搜索引擎](general-skills/search-platforms.md) · [工具推荐](general-skills/tools.md) · [计算机基础](general-skills/computer-basic/SurfingTutorial.md) · [考试与竞赛](general-skills/study/study.md) · [学生优惠](general-skills/student-discounts.md)
 
-### 🌱 校园生活
+### 校园生活
 
 *人际关系、日常琐事、医疗保障，让校园生活更从容。*
 
 [化解矛盾](campus-life/resolving-conflicts.md) · [社交关系](campus-life/social-connections.md) · [脱单技巧](campus-life/getting-out-of-singleness.md) · [图书馆](campus-life/library.md) · [医保指南](campus-life/medical-insurance.md) · [国际交流](campus-life/international-exchange.md)
 
-### 💰 圆梦帮扶
+### 圆梦帮扶
 
 *奖助学金、勤工俭学、助学贷款，不让经济困难成为求学的阻碍。*
 
 [奖助学金](campus-life/scholarship.md) · [勤工俭学](campus-life/work-study-program.md) · [助学贷款](campus-life/faq-national-student-loan.md)
 
-### 🚀 成长通道
+### 成长通道
 
 *就业准备、网络安全、生活妙招，为走出校园做好万全准备。*
 
 [企业文化](general-skills/recruit-exercitation.md) · [密码管理](general-skills/password_manage.md) · [隐私保护](general-skills/cyber%20security/privacy.md) · [校园跑](general-skills/qi-ji-yin-qiao/campus-running.md) · [刷课](general-skills/qi-ji-yin-qiao/pointless-courses.md) · [银行与信用卡](general-skills/bank-accounts-and-credit-cards.md)
 
-### 🏥 生活健康
+### 生活健康
 
 *作息饮食、运动保健、出行健康，照顾好自己才能走得更远。*
 
