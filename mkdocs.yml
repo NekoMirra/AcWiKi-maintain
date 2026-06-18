@@ -1,4 +1,6 @@
 draft_docs: drafts/
+exclude_docs: |
+  superpowers/
 nav:
     - 首页: README.md
     - 入学前:
