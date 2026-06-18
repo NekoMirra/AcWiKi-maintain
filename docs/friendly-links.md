@@ -6,31 +6,37 @@
 
     ---
 
-    <img src="https://static.criwits.top/images/misc/missing_logo.svg" width="40" style="margin-bottom: 0.5em;" />
-
-    计算机技术学习札记
+    <div style="display: flex; align-items: center; gap: 1rem;">
+    <div style="flex: 1;">计算机技术学习札记</div>
+    <img src="https://static.criwits.top/images/misc/missing_logo.svg" width="64" />
+    </div>
 
 -   :material-link:{ .lg .middle } [**西邮 Wiki - XUPT Wiki**](https://wiki.cooo.site)
 
     ---
 
-    <img src="https://wiki.cooo.site/logo.svg" width="40" style="margin-bottom: 0.5em;" />
-
-    西安邮电大学非官方校园生活指南
+    <div style="display: flex; align-items: center; gap: 1rem;">
+    <div style="flex: 1;">西安邮电大学非官方校园生活指南</div>
+    <img src="https://wiki.cooo.site/logo.svg" width="64" />
+    </div>
 
 -   :material-link:{ .lg .middle } [**大学生活质量指北**](https://colleges.chat/)
 
     ---
 
-    <img src="https://colleges.chat/assets/images/favicon.webp" width="40" style="margin-bottom: 0.5em;" />
-
-    基于问卷数据的中国高校生活质量信息平台
+    <div style="display: flex; align-items: center; gap: 1rem;">
+    <div style="flex: 1;">基于问卷数据的中国高校生活质量信息平台</div>
+    <img src="https://colleges.chat/assets/images/favicon.webp" width="64" />
+    </div>
 
 -   :material-link:{ .lg .middle } [**山东第二医科大学指南 SDSMU-Companion**](https://sdsmu-companion.netlify.app)
 
     ---
 
-    方便在校学生与新生的日常生活
+    <div style="display: flex; align-items: center; gap: 1rem;">
+    <div style="flex: 1;">方便在校学生与新生的日常生活</div>
+    <img src="https://sdsmu-companion.netlify.app/favicon.svg" width="64" />
+    </div>
 
 </div>
 
