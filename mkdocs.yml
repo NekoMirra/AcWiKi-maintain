@@ -106,8 +106,19 @@ theme:
           toggle:
               icon: material/weather-night
               name: 根据系统主题切换
+    footer:
+        - icon: material/account-group
+          link: community-hub/about-wiki.md
+          name: 关于 Wiki
+        - icon: material/pencil
+          link: community-hub/CONTRIBUTING.md
+          name: 贡献指南
+        - icon: material/email
+          link: community-hub/contact-us.md
+          name: 联系我们
 
 extra:
+    generator: false
     social:
         - icon: simple/qq
           link: https://qm.qq.com/q/WJI3hgBcm4
