@@ -134,13 +134,13 @@
 
 ---
 
-## 🙏 致谢
+## 致谢
 
 感谢 **[方山厨子](https://space.bilibili.com/274459325)** 提供的《成年人社会生活常识课》系列视频，为本项目提供了大量实用的社会生活知识。
 
 感谢所有参与到开发与维护中的贡献者，是大家的帮助让 Ac-Wiki 越来越好！
 
-<div align="center">
+<div align="center" style="margin: 1.5em 0;">
   <a href="https://github.com/Ac-Wiki/Ac-Wiki/graphs/contributors">
     <img src="https://contributors-img.web.app/image?repo=Ac-Wiki/Ac-Wiki&max=200&columns=12" alt="贡献者" />
   </a>
@@ -148,21 +148,16 @@
 
 ---
 
-## 💬 加入社区
+## 加入社区
 
-<div align="center">
-  <a href="https://t.me/AcWiki">
-    <img src="https://img.shields.io/static/v1?label=Telegram&message=频道&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 频道" />
-  </a>
-  <a href="https://t.me/AcFourm">
-    <img src="https://img.shields.io/static/v1?label=Telegram&message=群组&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 群组" />
-  </a>
-  <a href="https://qm.qq.com/q/WJI3hgBcm4">
-    <img src="https://img.shields.io/static/v1?label=QQ&message=860675581&color=12B7F5&style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ 群" />
-  </a>
+<div align="center" style="margin: 1.5em 0;">
+  <a href="https://t.me/AcWiki" style="display: inline-block; margin: 0.3em; padding: 0.5em 1.2em; background: #26A5E4; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">Telegram 频道</a>
+  <a href="https://t.me/AcFourm" style="display: inline-block; margin: 0.3em; padding: 0.5em 1.2em; background: #26A5E4; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">Telegram 群组</a>
+  <a href="https://qm.qq.com/q/WJI3hgBcm4" style="display: inline-block; margin: 0.3em; padding: 0.5em 1.2em; background: #12B7F5; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">QQ 群 860675581</a>
+  <a href="https://github.com/Ac-Wiki/Ac-Wiki" style="display: inline-block; margin: 0.3em; padding: 0.5em 1.2em; background: #24292e; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">GitHub</a>
 </div>
 
-<div align="center">
+<div align="center" style="margin: 2em 0 1em;">
   <a href="https://star-history.com/#Ac-Wiki/Ac-Wiki&Date">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Ac-Wiki/Ac-Wiki&type=Date&theme=dark" />
@@ -172,18 +167,12 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <p><strong>CDN 加速及安全防护由</strong></p>
-  <a href="https://edgeone.ai/zh?from=github">
-    <img src="./assets/TencentEdgeone.png" alt="Tencent EdgeOne" height="60" />
-  </a>
-  <p><strong>赞助提供</strong></p>
+<div align="center" style="margin: 1em 0 2em; font-size: 0.85em; color: var(--md-default-fg-color--light);">
+  CDN 加速及安全防护由 <a href="https://edgeone.ai/zh?from=github" style="font-weight: 600;">Tencent EdgeOne</a> 赞助提供
 </div>
 
 ---
 
-<div align="center">
-  <sub>本项目内容遵循 <a href="./LICENSE-CC-BY-4.0.md">CC BY 4.0</a> 许可协议，源代码遵循 <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE">MIT</a> 许可协议</sub>
+<div align="center" style="font-size: 0.8em; color: var(--md-default-fg-color--light);">
+  本项目内容遵循 <a href="./LICENSE-CC-BY-4.0.md">CC BY 4.0</a> 许可协议，源代码遵循 <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE">MIT</a> 许可协议
 </div>
