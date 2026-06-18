@@ -140,19 +140,25 @@
 }
 
 /* --- Footer Enhancements --- */
-.md-copyright {
-    text-align: center !important;
-    font-size: 0.8rem;
-    line-height: 1.6;
-    max-width: 100%;
-    margin: 0 auto;
-}
 .md-footer {
     text-align: center;
 }
 .md-footer__inner {
     max-width: 100%;
     text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.md-footer__copyright {
+    text-align: center !important;
+    width: 100%;
+}
+.md-copyright {
+    text-align: center !important;
+    font-size: 0.8rem;
+    line-height: 1.6;
+    max-width: 100%;
+    margin: 0 auto;
 }
 .page-stats {
     margin: 0.5em 0;
