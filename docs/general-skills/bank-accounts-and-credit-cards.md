@@ -143,3 +143,7 @@
 
 - 维萨 (Visa) 和 万事达 (Mastercard)：全球最大的两个卡组织，总部都在美国。它们的网络遍布全球 200 多个国家和地区。如果你要出国留学或旅游，办理一张带有 Visa 或 Mastercard 标志的双币信用卡会非常方便。
 - 美国运通 (American Express)、JCB (来自日本) 等。
+
+## 参考链接
+
+- [中国铁路12306学生优惠票购买指南](https://kyfw.12306.cn/otn/gonggao/student.html)

@@ -296,3 +296,8 @@ APA 格式通常由以下几个部分组成：
 关于 APA 格式，可以参考以下这篇文章，有较为详细的解读：[APA 格式使用全解（适用于论文）](https://zhuanlan.zhihu.com/p/356016100)
 
 以及国外一所高校提供给学生的参考资料，非常详细：[APA_7th_Format_and_Citation_Student_Guide_ASC](https://364599a3-cdn.agilitycms.cloud/Attachments/5-services/academic-support-centre/APA_7th_Format_and_Citation_Student_Guide_ASC.pdf)
+
+## 参考链接
+
+- [GB/T 7714-2015 信息与文献 参考文献著录规则](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=0B963916637B8F34B295FCF4A51A1BE5)
+- [清华大学图书馆：参考文献著录规则参考](https://lib.tsinghua.edu.cn/info/1147/3359.htm)

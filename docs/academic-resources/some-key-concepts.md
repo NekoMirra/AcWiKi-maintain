@@ -130,3 +130,8 @@ PowerPoint 不仅是最后汇报时的工具，也是绘图工具，一般用于
 - 影响因子前 6%～20% 为 2 区；
 - 影响因子前 21%～50% 为 3 区；
 - 影响因子后 50% 为 4 区。
+
+## 参考链接
+
+- [中文核心期刊要目总览（北大核心）](http://hxqk.lib.pku.edu.cn/)
+- [CSSCI 来源期刊目录（南京大学）](https://cssrac.nju.edu.cn/cpzx/zwshkxywsy/index.html)

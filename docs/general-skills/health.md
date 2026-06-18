@@ -83,3 +83,7 @@ see also [近视防治指南（2024 年）](http://www.nhc.gov.cn/yzygj/s7653/20
 此外，您还可以通过各国医学组织、WHO 等相对可信的地方获取最近的健康资讯，对公开的数据库进行高级检索。具体的方法您可以部分参考[该文章](https://zhuanlan.zhihu.com/p/691572911)。同时，您也可以采取新近的 LLM 模型如 gemini、deepseek 进行相对个性化的知识习得，它完全是本文的超集。
 
 如果您对生活中的医学资料的可信度抱有怀疑并试图了解，强烈推荐阅读这篇面向大众的[科普](https://zhuanlan.zhihu.com/p/19831894)文章。
+
+## 参考链接
+
+- [学生常见病多病共防技术指南](http://wsjkw.hebei.gov.cn/zcfg2/403206.jhtml)
