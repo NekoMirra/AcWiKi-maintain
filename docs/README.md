@@ -132,32 +132,19 @@
 
 [生活小技巧](general-skills/life-tips.md) · [保健手段](general-skills/health.md) · [旅行健康](general-skills/health-when-travelling.md)
 
----
+<div align="center" style="margin: 3em 0 1em; padding: 2em 0;">
 
-## 致谢
+**感谢 [方山厨子](https://space.bilibili.com/274459325) 提供的《成年人社会生活常识课》系列视频，以及所有贡献者的付出。**
 
-感谢 **[方山厨子](https://space.bilibili.com/274459325)** 提供的《成年人社会生活常识课》系列视频，为本项目提供了大量实用的社会生活知识。
-
-感谢所有参与到开发与维护中的贡献者，是大家的帮助让 Ac-Wiki 越来越好！
-
-<div align="center" style="margin: 1.5em 0;">
-  <a href="https://github.com/Ac-Wiki/Ac-Wiki/graphs/contributors">
-    <img src="https://contributors-img.web.app/image?repo=Ac-Wiki/Ac-Wiki&max=200&columns=12" alt="贡献者" />
-  </a>
 </div>
 
----
+<div align="center" style="margin: 1em 0;">
 
-## 加入社区
+[Telegram 频道](https://t.me/AcWiki){ .md-button } [Telegram 群组](https://t.me/AcFourm){ .md-button } [QQ 群](https://qm.qq.com/q/WJI3hgBcm4){ .md-button } [GitHub](https://github.com/Ac-Wiki/Ac-Wiki){ .md-button }
 
-<div align="center" style="margin: 1.5em 0;">
-  <a href="https://t.me/AcWiki" style="display: inline-block; margin: 0.3em; padding: 0.5em 1.2em; background: #26A5E4; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">Telegram 频道</a>
-  <a href="https://t.me/AcFourm" style="display: inline-block; margin: 0.3em; padding: 0.5em 1.2em; background: #26A5E4; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">Telegram 群组</a>
-  <a href="https://qm.qq.com/q/WJI3hgBcm4" style="display: inline-block; margin: 0.3em; padding: 0.5em 1.2em; background: #12B7F5; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">QQ 群 860675581</a>
-  <a href="https://github.com/Ac-Wiki/Ac-Wiki" style="display: inline-block; margin: 0.3em; padding: 0.5em 1.2em; background: #24292e; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">GitHub</a>
 </div>
 
-<div align="center" style="margin: 2em 0 1em;">
+<div align="center" style="margin: 1.5em 0;">
   <a href="https://star-history.com/#Ac-Wiki/Ac-Wiki&Date">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Ac-Wiki/Ac-Wiki&type=Date&theme=dark" />
@@ -167,12 +154,6 @@
   </a>
 </div>
 
-<div align="center" style="margin: 1em 0 2em; font-size: 0.85em; color: var(--md-default-fg-color--light);">
-  CDN 加速及安全防护由 <a href="https://edgeone.ai/zh?from=github" style="font-weight: 600;">Tencent EdgeOne</a> 赞助提供
-</div>
-
----
-
 <div align="center" style="font-size: 0.8em; color: var(--md-default-fg-color--light);">
-  本项目内容遵循 <a href="./LICENSE-CC-BY-4.0.md">CC BY 4.0</a> 许可协议，源代码遵循 <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE">MIT</a> 许可协议
+  CDN 加速由 <a href="https://edgeone.ai/zh?from=github">Tencent EdgeOne</a> 赞助 · 内容遵循 <a href="./LICENSE-CC-BY-4.0.md">CC BY 4.0</a> · 代码遵循 <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE">MIT</a>
 </div>
