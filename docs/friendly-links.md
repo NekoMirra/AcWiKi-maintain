@@ -26,6 +26,12 @@
 
     基于问卷数据的中国高校生活质量信息平台
 
+-   :material-link:{ .lg .middle } [**山东第二医科大学指南 SDSMU-Companion**](https://sdsmu-companion.netlify.app)
+
+    ---
+
+    方便在校学生与新生的日常生活
+
 </div>
 
 ---
