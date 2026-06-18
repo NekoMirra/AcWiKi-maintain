@@ -115,7 +115,7 @@
   </tr>
   <tr>
     <td><strong>内容插件</strong></td>
-    <td>博客系统 · RSS 订阅 · 标签管理 · Git 提交历史 · 图片灯箱</td>
+    <td>博客系统 · RSS 订阅 · 标签管理 · Git 提交历史</td>
   </tr>
   <tr>
     <td><strong>代码质量</strong></td>
