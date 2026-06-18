@@ -24,8 +24,6 @@
     font-size: 2.5rem;
     font-weight: 700;
     margin-bottom: 0.5rem;
-    color: var(--md-default-fg-color) !important;
-    -webkit-text-fill-color: var(--md-default-fg-color) !important;
 }
 .hero p {
     font-size: 1.2rem;

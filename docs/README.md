@@ -2,7 +2,7 @@
 
 <img src="assets/logo.jpg" alt="Ac-Wiki Logo" width="150" style="border-radius: 20px; margin-bottom: 1rem;" />
 
-# Ac-Wiki
+<h1 style="color: var(--md-default-fg-color); -webkit-text-fill-color: var(--md-default-fg-color);">Ac-Wiki</h1>
 
 **专为大学生群体打造的知识共享平台，助力学业与社会衔接**
 
