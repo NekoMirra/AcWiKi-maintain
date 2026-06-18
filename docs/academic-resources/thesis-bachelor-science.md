@@ -1,3 +1,8 @@
+!!! abstract "📌 相关推荐"
+    - [学术研究与写作](academic-research-and-academic-writing.md)
+    - [关键概念](some-key-concepts.md)
+    - [网络资源获取](how-to-get-resources.md)
+
 ## 毕业论文及其工作
 
 本科生的毕业论文，对工作内容的要求不高，但是论文完成的流程已经相对完善。

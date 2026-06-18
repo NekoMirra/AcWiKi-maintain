@@ -1,3 +1,8 @@
+!!! abstract "📌 相关推荐"
+    - [搜索引擎](search-platforms.md)
+    - [计算机基础](computer-basic/SurfingTutorial.md)
+    - [学生优惠](student-discounts.md)
+
 ???+ info
 
     本篇主要关注操作系统上的效率软件。

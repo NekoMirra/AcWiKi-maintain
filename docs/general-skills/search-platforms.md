@@ -1,3 +1,8 @@
+!!! abstract "📌 相关推荐"
+    - [工具推荐](tools.md)
+    - [计算机基础](computer-basic/SurfingTutorial.md)
+    - [学术研究与写作](../academic-resources/academic-research-and-academic-writing.md)
+
 ???+ info "搜索引擎"
 
     搜索平台，是获取信息的一个重要入口，这里对常用的信息搜索平台做一个简单的收集汇总。以方便梳理出一个搜集有效信息资料，对学习、生活社会热点等媒体热点信息的判断体系。预计包含：信息搜索，信息存储，信息使用及判断 三个部分。本篇主要关注信息搜索部分。
