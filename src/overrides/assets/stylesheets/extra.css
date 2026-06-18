@@ -158,6 +158,26 @@
     line-height: 2;
 }
 
+/* --- Page Author with GitHub Avatar --- */
+.md-typeset .md-author {
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+    font-size: 0.85rem;
+    color: var(--md-default-fg-color--light);
+    margin-top: -0.5em;
+    margin-bottom: 1.5em;
+}
+.md-typeset .md-author img {
+    border-radius: 50%;
+    vertical-align: middle;
+}
+.md-typeset .md-author-date {
+    margin-left: 0.5em;
+    font-size: 0.8rem;
+    color: var(--md-default-fg-color--light);
+}
+
 /* --- Right TOC Enlargement --- */
 .md-sidebar--secondary .md-nav__link {
     font-size: 0.95rem;
