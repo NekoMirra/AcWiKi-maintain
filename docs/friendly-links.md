@@ -1,5 +1,31 @@
 # 友情链接
 
+<div class="grid cards" markdown>
+
+- :material-link:{ .lg .middle } [**Criwits · Missing**](https://www.criwits.top/missing/)
+
+    ---
+
+    大学生实用资源导航
+
+- :material-link:{ .lg .middle } [**Coooo · Site**](https://wiki.cooo.site)
+
+    ---
+
+    综合知识 Wiki
+
+- :material-link:{ .lg .middle } [**Colleges Chat**](https://colleges.chat/)
+
+    ---
+
+    大学生交流社区
+
+</div>
+
+---
+
+## 🎓 高校课程资源共享
+
 我们向以下优秀的高校课程资源共享项目致敬，他们的开源精神与知识共享理念为本项目提供了重要参考。
 
 <div class="grid cards" markdown>
