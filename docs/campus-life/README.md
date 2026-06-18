@@ -4,37 +4,29 @@
 
 <div class="grid cards" markdown>
 
-- :material-account-multiple:{ .lg .middle } **人际关系**
+- :material-account-multiple:{ .lg .middle } [**人际关系**](resolving-conflicts.md)
 
     ---
 
     化解矛盾、社交关系、脱单技巧
 
-    [:octicons-arrow-right-24: 阅读](resolving-conflicts.md)
-
-- :material-home:{ .lg .middle } **生活技巧**
+- :material-home:{ .lg .middle } [**生活技巧**](library.md)
 
     ---
 
     图书馆、医保、国际交流、旅行健康
 
-    [:octicons-arrow-right-24: 阅读](library.md)
-
-- :material-hand-heart:{ .lg .middle } **圆梦帮扶**
+- :material-hand-heart:{ .lg .middle } [**圆梦帮扶**](scholarship.md)
 
     ---
 
     奖助学金、勤工俭学、助学贷款
 
-    [:octicons-arrow-right-24: 阅读](scholarship.md)
-
-- :material-school:{ .lg .middle } **入学准备**
+- :material-school:{ .lg .middle } [**入学准备**](first-lesson-of-school.md)
 
     ---
 
     开学第0课、课程学分、转专业
-
-    [:octicons-arrow-right-24: 阅读](first-lesson-of-school.md)
 
 </div>
 

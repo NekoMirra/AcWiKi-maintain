@@ -4,37 +4,29 @@
 
 <div class="grid cards" markdown>
 
-- :material-pen:{ .lg .middle } **学术研究与写作**
+- :material-pen:{ .lg .middle } [**学术研究与写作**](academic-research-and-academic-writing.md)
 
     ---
 
     学术规范、论文写作、查重降重
 
-    [:octicons-arrow-right-24: 阅读](academic-research-and-academic-writing.md)
-
-- :material-lightbulb:{ .lg .middle } **关键概念**
+- :material-lightbulb:{ .lg .middle } [**关键概念**](some-key-concepts.md)
 
     ---
 
     学术领域的基础概念解析
 
-    [:octicons-arrow-right-24: 阅读](some-key-concepts.md)
-
-- :material-file-document:{ .lg .middle } **毕业论文（理学）**
+- :material-file-document:{ .lg .middle } [**毕业论文（理学）**](thesis-bachelor-science.md)
 
     ---
 
     本科毕业论文写作完整指南
 
-    [:octicons-arrow-right-24: 阅读](thesis-bachelor-science.md)
-
-- :material-earth:{ .lg .middle } **资源获取**
+- :material-earth:{ .lg .middle } [**资源获取**](how-to-get-resources.md)
 
     ---
 
     网络资源、开源项目、数学学习
-
-    [:octicons-arrow-right-24: 阅读](how-to-get-resources.md)
 
 </div>
 

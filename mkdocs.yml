@@ -73,8 +73,8 @@ theme:
     font:
         text: Noto Sans
     custom_dir: ./src/overrides
-    logo: assets/logo.jpg
-    favicon: assets/logo_clear.png
+    logo: https://avatars.githubusercontent.com/u/185591372?s=200&v=4
+    favicon: https://avatars.githubusercontent.com/u/185591372?s=40&v=4
     features:
         - toc.follow # Follow TOC
         - content.action.edit # source edit

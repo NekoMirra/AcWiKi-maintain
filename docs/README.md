@@ -1,6 +1,6 @@
 <div class="hero" markdown>
 
-<img src="assets/logo.jpg" alt="Ac-Wiki Logo" width="150" style="border-radius: 20px; margin-bottom: 1rem;" />
+<img src="https://avatars.githubusercontent.com/u/185591372?s=200&v=4" alt="Ac-Wiki Logo" width="150" style="border-radius: 20px; margin-bottom: 1rem;" />
 
 <h1 style="color: var(--md-default-fg-color); -webkit-text-fill-color: var(--md-default-fg-color);">Ac-Wiki</h1>
 
@@ -60,37 +60,29 @@
 
 <div class="grid cards" markdown>
 
-- :material-school:{ .lg .middle } **入学前**
+- :material-school:{ .lg .middle } [**入学前**](campus-life/first-lesson-of-school.md)
 
     ---
 
     开学准备、课程了解、转专业指南
 
-    [:octicons-arrow-right-24: 开始阅读](campus-life/first-lesson-of-school.md)
-
-- :material-book-open-variant:{ .lg .middle } **在校学习**
+- :material-book-open-variant:{ .lg .middle } [**在校学习**](academic-resources/README.md)
 
     ---
 
     学术资源、通识技能、学生优惠
 
-    [:octicons-arrow-right-24: 开始阅读](academic-resources/README.md)
-
-- :material-flower:{ .lg .middle } **校园生活**
+- :material-flower:{ .lg .middle } [**校园生活**](campus-life/README.md)
 
     ---
 
     人际关系、生活技巧、圆梦帮扶
 
-    [:octicons-arrow-right-24: 开始阅读](campus-life/README.md)
-
-- :material-rocket-launch:{ .lg .middle } **成长通道**
+- :material-rocket-launch:{ .lg .middle } [**成长通道**](growth-path/README.md)
 
     ---
 
     就业准备、技能提升、方法论
-
-    [:octicons-arrow-right-24: 开始阅读](growth-path/README.md)
 
 </div>
 
