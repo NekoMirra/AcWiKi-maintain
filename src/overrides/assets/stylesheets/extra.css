@@ -149,11 +149,13 @@
     padding-left: 1rem;
     padding-right: 1rem;
 }
-.md-footer-meta__inner {
+.md-footer-meta__inner.md-grid {
     display: block !important;
-    grid-template-columns: none !important;
+    grid-template-columns: unset !important;
     max-width: 100% !important;
     text-align: center !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 .md-footer__copyright {
     text-align: center !important;
