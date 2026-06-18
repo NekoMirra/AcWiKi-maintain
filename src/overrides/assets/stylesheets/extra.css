@@ -153,17 +153,6 @@
     color: var(--md-footer-fg-color--light);
 }
 
-/* --- TOC: Collapse sub-items by default --- */
-.md-sidebar--secondary .md-nav__link + .md-nav__list {
-    display: none;
-}
-.md-sidebar--secondary .md-nav__item--active > .md-nav__link + .md-nav__list {
-    display: block;
-}
-.md-sidebar--secondary .md-nav__toggle {
-    display: none;
-}
-
 /* --- Responsive Adjustments --- */
 @media screen and (max-width: 76.1875em) {
     .hero h1 {
