@@ -141,9 +141,18 @@
 
 /* --- Footer Enhancements --- */
 .md-copyright {
-    text-align: center;
+    text-align: center !important;
     font-size: 0.8rem;
     line-height: 1.6;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.md-footer {
+    text-align: center;
+}
+.md-footer__inner {
+    max-width: 100%;
+    text-align: center;
 }
 .page-stats {
     margin: 0.5em 0;
