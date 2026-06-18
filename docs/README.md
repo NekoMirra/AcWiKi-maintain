@@ -1,5 +1,7 @@
 <div class="hero" markdown>
 
+<img src="assets/logo.jpg" alt="Ac-Wiki Logo" width="150" style="border-radius: 20px; margin-bottom: 1rem;" />
+
 # Ac-Wiki
 
 **专为大学生群体打造的知识共享平台，助力学业与社会衔接**
