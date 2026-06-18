@@ -1,4 +1,3 @@
-draft_docs: drafts/
 exclude_docs: |
   superpowers/
 nav:
@@ -6,6 +5,7 @@ nav:
     - 入学前:
           - campus-life/first-lesson-of-school.md
           - 课程与学分: campus-life/different-courses.md
+          - 选择专业: campus-life/choose-major.md
           - 签到考勤: campus-life/class-attendance.md
           - 转专业须知: campus-life/major-transfer-guide.md
           - 辅修/第二学位: campus-life/minor-or-dual-degree.md
@@ -197,22 +197,22 @@ plugins:
               - actions-user
               - Copilot
               - web-flow
-    # - glightbox: # lightbox
-    #     touchNavigation: true
-    #     loop: true
-    #     effect: none
-    #     slide_effect: fade
-    #     width: auto
-    #     height: auto
-    #     zoomable: true
-    #     draggable: true
-    #     skip_classes:
-    #       - skip-lightbox
-    #     auto_caption: false
-    #     caption_position: bottom
-    #     background: none
-    #     shadow: false
-    #     manual: false
+    - glightbox: # lightbox
+          touchNavigation: true
+          loop: true
+          effect: none
+          slide_effect: fade
+          width: auto
+          height: auto
+          zoomable: true
+          draggable: true
+          skip_classes:
+            - skip-lightbox
+          auto_caption: false
+          caption_position: bottom
+          background: none
+          shadow: false
+          manual: false
     - privacy:
           assets: false # 图片等大量资源托管在 GitHub 上，开启可能会触发 API 请求的限制
     - blog
