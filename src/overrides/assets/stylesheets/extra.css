@@ -149,6 +149,11 @@
     padding-left: 1rem;
     padding-right: 1rem;
 }
+.md-footer-meta__inner {
+    display: block !important;
+    max-width: 100% !important;
+    text-align: center !important;
+}
 .md-footer__copyright {
     text-align: center !important;
     width: 100%;
