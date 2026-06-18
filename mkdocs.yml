@@ -58,6 +58,7 @@ nav:
                 - 银行账户与信用卡: general-skills/bank-accounts-and-credit-cards.md
     - 博客:
           - blog/index.md
+    - 友情链接: friendly-links.md
 
 site_name: Ac-Wiki 大学生的百科全书
 site_url: https://ac-wiki.org # 正式站点链接
