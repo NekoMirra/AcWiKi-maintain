@@ -139,6 +139,25 @@
     margin-bottom: 0.5rem;
 }
 
+/* --- Sitemap Section --- */
+.md-typeset h3 {
+    font-size: 1.3rem;
+    margin-top: 1.8rem;
+    margin-bottom: 0.3rem;
+}
+.md-typeset h3 + em {
+    display: block;
+    font-size: 0.95rem;
+    color: var(--md-default-fg-color--light);
+    margin-bottom: 0.6rem;
+    font-style: italic;
+}
+.md-typeset h3 + em + a,
+.md-typeset h3 + em ~ a {
+    font-size: 1.05rem;
+    line-height: 2;
+}
+
 /* --- Footer Enhancements --- */
 .md-footer {
     text-align: center;
