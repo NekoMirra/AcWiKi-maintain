@@ -2,23 +2,23 @@
 
 <div class="grid cards" markdown>
 
-- :material-link:{ .lg .middle } [**Criwits · Missing**](https://www.criwits.top/missing/)
+- :material-link:{ .lg .middle } [**Missing · 计算机入门教程**](https://www.criwits.top/missing/)
 
     ---
 
-    大学生实用资源导航
+    面向初学者的免费中文计算机入门教程
 
-- :material-link:{ .lg .middle } [**Coooo · Site**](https://wiki.cooo.site)
-
-    ---
-
-    综合知识 Wiki
-
-- :material-link:{ .lg .middle } [**Colleges Chat**](https://colleges.chat/)
+- :material-link:{ .lg .middle } [**西邮 Wiki**](https://wiki.cooo.site)
 
     ---
 
-    大学生交流社区
+    西安邮电大学非官方校园生活指南
+
+- :material-link:{ .lg .middle } [**高校生活质量查询**](https://colleges.chat/)
+
+    ---
+
+    基于问卷数据的中国高校生活质量信息平台
 
 </div>
 
