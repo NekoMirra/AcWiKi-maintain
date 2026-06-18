@@ -22,4 +22,4 @@ To view a copy of this license, visit [https://creativecommons.org/licenses/by/4
 
 本许可仅适用于本仓库的文档内容（`docs/` 目录及其子目录中的 Markdown 文件和图片等资源）。
 
-仓库中的源代码部分（如 `src/`, `scripts/` 目录下内容）则遵循根目录下的 [MIT License](../LICENSE)。
+仓库中的源代码部分（如 `src/`, `scripts/` 目录下内容）则遵循根目录下的 [MIT License](https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE)。
