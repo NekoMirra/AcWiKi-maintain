@@ -60,7 +60,7 @@
 
 <div class="grid cards" markdown>
 
-- :material-school:{ .lg .middle } **🎓 入学前**
+- :material-school:{ .lg .middle } **入学前**
 
     ---
 
@@ -68,7 +68,7 @@
 
     [:octicons-arrow-right-24: 开始阅读](campus-life/first-lesson-of-school.md)
 
-- :material-book-open-variant:{ .lg .middle } **📚 在校学习**
+- :material-book-open-variant:{ .lg .middle } **在校学习**
 
     ---
 
@@ -76,7 +76,7 @@
 
     [:octicons-arrow-right-24: 开始阅读](academic-resources/README.md)
 
-- :material-flower:{ .lg .middle } **🌱 校园生活**
+- :material-flower:{ .lg .middle } **校园生活**
 
     ---
 
@@ -84,7 +84,7 @@
 
     [:octicons-arrow-right-24: 开始阅读](campus-life/README.md)
 
-- :material-rocket-launch:{ .lg .middle } **🚀 成长通道**
+- :material-rocket-launch:{ .lg .middle } **成长通道**
 
     ---
 
