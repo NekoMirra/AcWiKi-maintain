@@ -28,10 +28,10 @@ nav:
                 - 计算机基础: general-skills/computer-basic/SurfingTutorial.md
                 - 考试和竞赛: general-skills/study/study.md
                 - 网络安全:
-                      - 密码管理详解: general-skills/cyber%20security/password_manage1.md
-                      - 密码管理进阶: general-skills/cyber%20security/password_manage2.md
-                      - 两步验证工具: general-skills/cyber%20security/Authenticator.md
-                      - 加密通讯: general-skills/加密通讯.md
+                      - 密码管理详解: "general-skills/cyber security/password_manage1.md"
+                      - 密码管理进阶: "general-skills/cyber security/password_manage2.md"
+                      - 两步验证工具: "general-skills/cyber security/Authenticator.md"
+                      - 加密通讯: "general-skills/加密通讯.md"
                 - 考试资源:
                       - 认证考试: general-skills/study/certification.md
                       - 研招信息: general-skills/study/yanzhao.md
