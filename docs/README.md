@@ -134,6 +134,9 @@
 
 <div align="center" style="margin: 3em 0 1em; padding: 2em 0;">
 <p style="font-size: 1.05em; line-height: 1.8;">感谢 <a href="https://space.bilibili.com/274459325">方山厨子</a> 提供的《成年人社会生活常识课》系列视频，<br>以及所有贡献者的付出。</p>
+<a href="https://github.com/Ac-Wiki/Ac-Wiki/graphs/contributors">
+<img src="https://contributors-img.web.app/image?repo=Ac-Wiki/Ac-Wiki&max=200&columns=12" alt="贡献者" />
+</a>
 </div>
 
 <div align="center" style="margin: 1em 0;">
