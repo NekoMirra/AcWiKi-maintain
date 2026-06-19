@@ -211,6 +211,11 @@ plugins:
               - "blog/*"
               - "community-hub/*"
               - "LICENSE-CC-BY-4.0.md"
+          ignore_authors:
+              - "github-actions[bot]"
+              - "actions-user"
+              - "Copilot"
+              - "web-flow"
     - git-committers:
           enabled: !ENV [CI, false] # 仅在 CI 环境下启用
           repository: Ac-Wiki/Ac-Wiki
