@@ -164,7 +164,6 @@ extra_css:
 
 extra_javascript:
     - assets/javascripts/feedback.js
-    - assets/javascripts/authors.js
     - https://cn.vercount.one/js
     - assets/javascripts/mathjax.js
     - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
