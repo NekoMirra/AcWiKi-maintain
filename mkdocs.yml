@@ -203,7 +203,6 @@ plugins:
           type: timeago
     - git-authors:
           enabled: true
-          author_source: git
           show_contribution: false
           exclude:
               - "blog/*"
