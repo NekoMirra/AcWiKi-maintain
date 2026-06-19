@@ -201,6 +201,14 @@ plugins:
           timezone: Asia/Shanghai
           enable_creation_date: true
           type: timeago
+    - git-authors:
+          enabled: true
+          author_source: git
+          show_contribution: false
+          exclude:
+              - "blog/*"
+              - "community-hub/*"
+              - "LICENSE-CC-BY-4.0.md"
     - git-committers:
           enabled: !ENV [CI, false] # 仅在 CI 环境下启用
           repository: Ac-Wiki/Ac-Wiki
