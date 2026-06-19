@@ -1,7 +1,7 @@
 // Add GitHub avatars to git-authors plugin output
 (function () {
     function addAvatars() {
-        document.querySelectorAll(".git-page-authors a").forEach(function (link) {
+        document.querySelectorAll(".git-page-authors a, .git-authors a").forEach(function (link) {
             if (link.querySelector("img")) return;
             var href = link.getAttribute("href") || "";
             var match = href.match(/github\.com\/([^/]+)/);

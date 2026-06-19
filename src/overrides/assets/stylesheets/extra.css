@@ -159,6 +159,32 @@
 }
 
 /* --- Page Author with GitHub Avatar --- */
+.git-page-authors.git-authors {
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+    flex-wrap: wrap;
+    font-size: 0.85rem;
+    color: var(--md-default-fg-color--light);
+    padding: 0.6em 0;
+    margin-bottom: 1.5em;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+.git-page-authors.git-authors img {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 2px;
+}
+.git-page-authors.git-authors a {
+    color: var(--md-primary-fg-color);
+    text-decoration: none;
+    vertical-align: middle;
+}
+.git-page-authors.git-authors a:hover {
+    text-decoration: underline;
+}
 .md-typeset .md-author {
     display: flex;
     align-items: center;
@@ -173,11 +199,6 @@
     vertical-align: middle;
     width: 28px;
     height: 28px;
-}
-.md-typeset .md-author-date {
-    margin-left: 0.5em;
-    font-size: 0.8rem;
-    color: var(--md-default-fg-color--light);
 }
 
 /* --- Right TOC Enlargement --- */

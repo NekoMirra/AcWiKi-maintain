@@ -3,8 +3,8 @@
 {% if "\x3ch1" not in page.content %}
   <h1>{{ page.title | d(config.site_name, true)}}</h1>
 {% endif %}
-{{ git_page_authors }}
 {{ page.content }}
+{{ git_page_authors }}
 {% include "partials/source-file.html" %}
 {% include "partials/feedback.html" %}
 {% include "partials/comments.html" %}
