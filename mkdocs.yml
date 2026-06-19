@@ -104,7 +104,6 @@ theme:
         - search.suggest
         - search.highlight
         - search.share
-        - meta.authors
     palette:
         # auto switch between light and dark mode
         - media: "(prefers-color-scheme)"
@@ -135,7 +134,6 @@ theme:
 
 extra:
     generator: false
-    default_author: NekoMirra
     social:
         - icon: simple/qq
           link: https://qm.qq.com/q/WJI3hgBcm4
@@ -164,7 +162,6 @@ extra_css:
 
 extra_javascript:
     - assets/javascripts/feedback.js
-    - assets/javascripts/authors.js
     - https://cn.vercount.one/js
     - assets/javascripts/mathjax.js
     - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
@@ -202,20 +199,6 @@ plugins:
           timezone: Asia/Shanghai
           enable_creation_date: true
           type: timeago
-    - git-authors:
-          enabled: true
-          show_contribution: false
-          show_email_address: true
-          href: "https://github.com/{name}"
-          exclude:
-              - "blog/*"
-              - "community-hub/*"
-              - "LICENSE-CC-BY-4.0.md"
-          ignore_authors:
-              - "github-actions[bot]@users.noreply.github.com"
-              - "41898282+github-actions[bot]@users.noreply.github.com"
-              - "action@github.com"
-              - "49699333+dependabot[bot]@users.noreply.github.com"
     - git-committers:
           enabled: !ENV [CI, false] # 仅在 CI 环境下启用
           repository: Ac-Wiki/Ac-Wiki
