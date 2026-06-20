@@ -296,4 +296,3 @@
 
 ## 参考链接
 
-- [Chrome浏览器扩展插件推荐大全](https://www.googolec.com/chrome-plugins/)
