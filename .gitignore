@@ -57,7 +57,7 @@ cover/
 # Translations
 *.mo
 *.pot
-AcWiKi-maintain\docs\superpowers
+docs/superpowers/
 # Django stuff:
 *.log
 local_settings.py
