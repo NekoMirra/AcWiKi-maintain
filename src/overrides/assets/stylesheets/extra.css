@@ -208,8 +208,8 @@
     .md-sidebar--primary {
         display: none !important;
     }
-    .md-main__inner {
-        margin-left: 0;
+    .md-content {
+        max-width: 100%;
     }
 }
 
