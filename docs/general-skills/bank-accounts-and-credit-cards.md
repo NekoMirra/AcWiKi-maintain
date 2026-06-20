@@ -145,5 +145,3 @@
 - 美国运通 (American Express)、JCB (来自日本) 等。
 
 ## 参考链接
-
-- [中国铁路12306学生优惠票购买指南](https://kyfw.12306.cn/otn/gonggao/student.html)

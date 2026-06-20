@@ -6,4 +6,4 @@
 
 ## 参考链接
 
-- [学生考勤管理制度示例 - 《安康学院电子与信息工程学院学生考勤管理办法》](https://dxxy.aku.edu.cn/__local/9/35/CE/1FDAF07ED0AB68E2E1AFF61B0DF_2567ACD4_36658.pdf)
+- [安康学院电子与信息工程学院学生考勤管理办法](https://dxxy.aku.edu.cn/__local/9/35/CE/1FDAF07ED0AB68E2E1AFF61B0DF_2567ACD4_36658.pdf)

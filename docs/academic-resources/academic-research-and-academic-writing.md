@@ -299,5 +299,5 @@ APA 格式通常由以下几个部分组成：
 
 ## 参考链接
 
-- [GB/T 7714-2015 信息与文献 参考文献著录规则](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=0B963916637B8F34B295FCF4A51A1BE5)
-- [清华大学图书馆：研究帮助——参考文献及论文写作格式](https://lib.tsinghua.edu.cn/info/1147/3359.htm)
+- [推荐性国家标准 GB/T 7714-2025 信息与文献 参考文献著录规则](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=C6CE52E55AC09B9C79A20AEA77CEDD14)
+- [清华大学图书馆：参考文献著录规则参考](https://lib.tsinghua.edu.cn/info/1147/3359.htm)
